@@ -1,0 +1,6 @@
+plan_id,plan_name,type,quota_gb,quota_min,quota_sms,monthly_price,overage_gb,overage_min,overage_sms
+1,GB10 + 500dk + 100SMS,retail,10,500,100,329.0,40.0,0.75,0.75
+2,GB20 + 750dk + 250SMS,retail,20,750,250,429.0,35.0,0.65,0.65
+3,GB30 + 1000dk + 500SMS,retail,30,1000,500,529.0,30.0,0.55,0.55
+4,GB50 + 1500dk + 1000SMS,retail,50,1500,1000,699.0,25.0,0.45,0.45
+5,Sınırsız Sosyal + GB15 + 750dk,youth,15,750,200,479.0,32.0,0.6,0.6

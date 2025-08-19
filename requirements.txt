@@ -1,0 +1,20 @@
+pandas>=2.0.0
+numpy>=1.25.0
+
+# Backend için
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0.0
+requests>=2.31.0
+
+# Geliştirme/Notebook için
+jupyter
+
+# CORS için
+python-multipart>=0.0.6
+
+# OpenAI için
+openai>=1.0.0
+
+# GUI için
+customtkinter>=5.2.0
